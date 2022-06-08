@@ -1,0 +1,23 @@
+PODS:
+  - ReSwift (6.1.0)
+  - ReSwiftThunk (2.0.1):
+    - ReSwift (~> 6.0)
+    - ReSwiftThunk/Core (= 2.0.1)
+  - ReSwiftThunk/Core (2.0.1):
+    - ReSwift (~> 6.0)
+
+DEPENDENCIES:
+  - ReSwiftThunk
+
+SPEC REPOS:
+  trunk:
+    - ReSwift
+    - ReSwiftThunk
+
+SPEC CHECKSUMS:
+  ReSwift: eab3c01e4279ba81b54a61e4fd6499634d20123a
+  ReSwiftThunk: 7ca5145764be6f30b62db88a52d170133954629e
+
+PODFILE CHECKSUM: edce14474b230b31686846158df3dc28b995a17a
+
+COCOAPODS: 1.11.2
